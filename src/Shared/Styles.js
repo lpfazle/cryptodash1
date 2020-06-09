@@ -1,4 +1,3 @@
-import React from "react";
 
 const theme = 'dark';
 //const theme = 'light';
